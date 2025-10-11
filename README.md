@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hello, I'm Mohit Kumar<br><br>🎓 I'm a Computer Science & Engineering undergraduate with a deep passion for software development, artificial intelligence, and impactful technology. I'm driven by the mission to stay ahead of the curve, mastering industry-relevant skills while building real-world projects that solve problems and scale efficiently.<br><br>### 🔍 What I’m Focused On<br>- 🔧 Preparing for  **DRDO**, and **Google Summer of Code 2026**<br>- 
+## 👋 Hello, I'm Mohit Kumar<br><br>🎓 I'm a Computer Science & Engineering undergraduate with a deep passion for software development, artificial intelligence, and impactful technology. I'm driven by the mission to stay ahead of the curve, mastering industry-relevant skills while building real-world projects that solve problems and scale efficiently.<br><br>### 🔍 What I’m Focused On<br>- 🔧 **Google Summer of Code 2026**<br>- 
 
 
 ## 🌐 Socials:
