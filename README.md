@@ -8,6 +8,9 @@
 ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║   ██║   
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝  
 ```
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohit-368&style=flat-square&color=1A56DB&base=500" alt="Profile Views"/>
+</div>
 
 ### `< Backend Developer />` · Python · Django · DRF
 
@@ -133,7 +136,7 @@ If you're building something cool in the backend space — let's talk!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohit-368&style=flat-square&color=1A56DB" alt="Profile Views"/>
+  
   
   *"Build things that matter. Ship things that work."*
 </div>
