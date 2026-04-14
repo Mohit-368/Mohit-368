@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mohit-368&style=flat-square&color=1A56DB&base=500" alt="Profile Views"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Nexus%20Spring%20of%20Code-Project%20Admin-1A56DB?style=flat-square&logo=github&logoColor=white" alt="Nexus Spring of Code Project Admin"/>
+  <img src="https://img.shields.io/badge/Nexus%20Spring%20of%20Code 2026-Project%20Admin-1A56DB?style=flat-square&logo=github&logoColor=white" alt="Nexus Spring of Code Project Admin"/>
 </div>
 
 ---
