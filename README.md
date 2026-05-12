@@ -11,8 +11,37 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohit-368&style=flat-square&color=1A56DB&base=500" alt="Profile Views"/>
 </div>
+
+--- 
+
+## Open Source Recognition
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Nexus%20Spring%20of%20Code 2026-Project%20Admin-1A56DB?style=flat-square&logo=github&logoColor=white" alt="Nexus Spring of Code Project Admin"/>
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.nsoc.in">
+<img src="https://img.shields.io/badge/NSOC_2026-Project_Admin-1A56DB?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://gssoc.girlscript.tech/">
+<img src="https://img.shields.io/badge/GSSOC_2026-Project_Admin-FF69B4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://gssoc.girlscript.tech/">
+<img src="https://img.shields.io/badge/GSSOC_2026-Contributor-FF1493?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</a>
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
