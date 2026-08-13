@@ -1,0 +1,47 @@
+<svg width="760" height="230" viewBox="0 0 760 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#0F1A33"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1A56DB" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <clipPath id="cardClip"><rect x="0" y="0" width="760" height="230" rx="14"/></clipPath>
+
+    <clipPath id="c1"><rect x="34" y="76" width="0" height="20">
+      <animate attributeName="width" values="0;0;67;67;67" keyTimes="0;0.025;0.05;0.97;1" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="34" y="106" width="0" height="20">
+      <animate attributeName="width" values="0;0;307;307;307" keyTimes="0;0.06;0.11;0.97;1" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="34" y="136" width="0" height="20">
+      <animate attributeName="width" values="0;0;126;126;126" keyTimes="0;0.13;0.16;0.97;1" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c4"><rect x="34" y="166" width="0" height="20">
+      <animate attributeName="width" values="0;0;442;442;442" keyTimes="0;0.18;0.27;0.97;1" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <rect width="760" height="230" fill="url(#bg)"/>
+    <rect width="760" height="230" fill="url(#grid)"/>
+    <rect x="1" y="1" width="758" height="228" rx="13" fill="none" stroke="#1A56DB" stroke-opacity="0.5" stroke-width="1.5"/>
+
+    <rect x="0" y="0" width="760" height="40" fill="#0D1526"/>
+    <line x1="0" y1="40" x2="760" y2="40" stroke="#1A56DB" stroke-opacity="0.35" stroke-width="1"/>
+    <circle cx="24" cy="20" r="6" fill="#FF5F56"/>
+    <circle cx="44" cy="20" r="6" fill="#FFBD2E"/>
+    <circle cx="64" cy="20" r="6" fill="#27C93F"/>
+    <text x="380" y="25" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#8B95A7">mohit@backend: ~</text>
+
+    <text x="34" y="76" font-family="Menlo, Consolas, monospace" font-size="16" fill="#60A5FA" clip-path="url(#c1)">$ whoami</text>
+    <text x="34" y="106" font-family="Menlo, Consolas, monospace" font-size="16" fill="#E6EDF3" clip-path="url(#c2)">Mohit Kumar - Backend Developer</text>
+    <text x="34" y="136" font-family="Menlo, Consolas, monospace" font-size="16" fill="#60A5FA" clip-path="url(#c3)">$ cat stack.txt</text>
+    <text x="34" y="166" font-family="Menlo, Consolas, monospace" font-size="16" fill="#E6EDF3" clip-path="url(#c4)">Python . Django . DRF . PostgreSQL . React.js</text>
+
+    <rect x="34" y="188" width="10" height="18" fill="#60A5FA">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
