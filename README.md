@@ -1,160 +1,438 @@
 <div align="center">
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1A56DB,100:60A5FA&height=6" />
+
+<a href="https://github.com/Mohit-368">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MOHIT&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=AI%20BACKEND%20%7C%20AGENT%20ENGINEERING%20%7C%20SYSTEMS&descSize=18&descAlignY=58&animation=fadeIn&color=0:071A3D,45:0B3D91,75:1266D6,100:42A5FF" width="100%"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Mohit-368">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=42A5FF&center=true&vCenter=true&width=760&lines=Building+AI-powered+backend+systems.;Turning+LLMs+into+useful%2C+stateful+software.;FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+RAG+%7C+Agents;Open+source+builder+%7C+CS+student+%7C+shipping+in+public." alt="Typing introduction" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Mohit-368">
+  <img src="https://img.shields.io/badge/FOCUS-AI%20BACKEND-0B3D91?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Mohit-368?tab=repositories">
+  <img src="https://img.shields.io/badge/BUILDING-AGENTS%20%26%20RAG-1266D6?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Mohit-368/Mohit-368">
+  <img src="https://img.shields.io/github/last-commit/Mohit-368/Mohit-368?style=for-the-badge&label=PROFILE%20UPDATED&color=1E88E5"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mohitkumar368">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:berwaliamohit@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/Mohit_368">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://hashnode.com/@mohitkumar368">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mohit-368&style=flat-square&color=1266D6&label=PROFILE%20VIEWS" alt="Profile views"/>
+
 </div>
 
-<br>
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Mohit-368/Mohit-368/main/terminal-banner.svg" width="700" alt="terminal" />
-</div>
+## `01` // THE SIGNAL
 
-<div align="center">
+```text
+Mohit Kumar
+──────────────────────────────────────────────────────────────
+Computer Science Engineering student @ MDU Rohtak
+Backend-focused engineer moving deeper into AI application engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A56DB?style=for-the-badge&logoColor=white&logo=linkedin&labelColor=0B1220)](https://linkedin.com/in/mohitkumar368)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1A56DB?style=for-the-badge&logoColor=white&logo=leetcode&labelColor=0B1220)](https://leetcode.com/Mohit_368)
-[![Hashnode](https://img.shields.io/badge/Blog-1A56DB?style=for-the-badge&logoColor=white&logo=hashnode&labelColor=0B1220)](https://hashnode.com/@mohitkumar368)
-[![Gmail](https://img.shields.io/badge/Email-1A56DB?style=for-the-badge&logoColor=white&logo=gmail&labelColor=0B1220)](mailto:berwaliamohit@gmail.com)
+I build systems where:
+    APIs meet data.
+    Data meets models.
+    Models become products.
 
-<sub><img src="https://komarev.com/ghpvc/?username=Mohit-368&style=flat-square&color=1A56DB&label=PROFILE+VIEWS" /></sub>
-
-</div>
-
-<br>
-
-### `$ cat about.md`
-
-```yaml
-role:      Backend Developer, open to internships
-location:  Rewari, Haryana, IN -> Remote
-currently: Exploring LangChain, LangGraph & multi-agent AI systems
-writing:   Django & backend deep-dives on Hashnode - 200+ daily readers
-community: Founder of a backend-focused developer community on LinkedIn
-solved:    180+ problems on LeetCode
+Current direction:
+    FastAPI → PostgreSQL → Redis → RAG → Agents → Production AI
 ```
 
-<br>
+> **I don't want to build another chatbot. I want to build the system behind the product.**
 
-### `$ ls open-source/`
+---
 
-<div align="center">
+## `02` // WHAT I BUILD
 
-| Program | Role |
-|:---:|:---:|
-| **NSOC 2026** | Project Admin |
-| **GSSOC 2026** | Project Admin |
-| **GSSOC 2026** | Contributor |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### AI APPLICATIONS
 
-<br>
+- RAG pipelines
+- LLM-powered applications
+- Multi-agent workflows
+- Stateful agent systems
+- AI research automation
+- Video/document assistants
+- Structured model outputs
 
-### `$ ls projects/ --featured`
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### BACKEND SYSTEMS
 
-<a href="https://github.com/Mohit-368/ReadmeForge">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-368&repo=ReadmeForge&title_color=60A5FA&text_color=c9d1d9&icon_color=1A56DB&bg_color=0B1220&border_color=1A56DB" />
-</a>
-<a href="https://github.com/Mohit-368/medico_app">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-368&repo=medico_app&title_color=60A5FA&text_color=c9d1d9&icon_color=1A56DB&bg_color=0B1220&border_color=1A56DB" />
-</a>
-<br>
-<a href="https://github.com/Mohit-368/Akward-django-project">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-368&repo=Akward-django-project&title_color=60A5FA&text_color=c9d1d9&icon_color=1A56DB&bg_color=0B1220&border_color=1A56DB" />
-</a>
-<a href="https://github.com/Mohit-368/Career_Intelligence-SQL-Based-Recommendation-Engine">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-368&repo=Career_Intelligence-SQL-Based-Recommendation-Engine&title_color=60A5FA&text_color=c9d1d9&icon_color=1A56DB&bg_color=0B1220&border_color=1A56DB" />
-</a>
+- FastAPI services
+- REST APIs
+- PostgreSQL data layers
+- Redis-backed workflows
+- Authentication & authorization
+- Async Python services
+- Backend architecture
 
-</div>
+</td>
+</tr>
+</table>
 
-- **ReadmeForge** -- the fastest way to craft a GitHub README, zero Markdown required. `106 stars . 32 forks`
-- **medico_app** -- full REST API for a hospital: appointments, doctor availability, role-based auth.
-- **Awkward** -- a social platform with OTP auth, built on Django Signals.
-- **Career Intelligence** -- a SQL recommendation engine, built entirely on CTEs and window functions.
+### Current engineering trajectory
+
+```text
+Python
+   │
+   ├── FastAPI ────────────────┐
+   │                           │
+   ├── PostgreSQL              │
+   │                           ├── AI Backend
+   ├── Redis                   │
+   │                           │
+   ├── Docker                  │
+   │                           │
+   └── AWS                     │
+                               │
+                   ┌───────────┴───────────┐
+                   │                       │
+                 RAG                    Agents
+                   │                       │
+             Vector Search          LangGraph
+                   │                       │
+                   └──────────┬────────────┘
+                              │
+                         Production AI
+```
+
+---
+
+## `03` // SELECTED WORK
+
+I keep a lot of experiments public. These are the projects that best show the direction of my engineering.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Multi-Agent AI Research System](https://github.com/Mohit-368/Multi-Agent-AI-Research-System)
+
+Autonomous research pipeline that turns a topic into a structured, self-critiqued research report.
+
+**Built around:** `Python` `Agents` `LLMs` `Research workflows`
+
+**Why it matters:** moves beyond a single prompt into orchestration, delegation and evaluation.
+
+</td>
+<td width="50%" valign="top">
+
+### [RAG AI Video Assistant](https://github.com/Mohit-368/RAG-AI-Video-Assistant)
+
+An AI assistant built around retrieval from video-derived knowledge.
+
+**Built around:** `Python` `RAG` `LLMs` `Retrieval`
+
+**Why it matters:** demonstrates the path from unstructured media to grounded answers.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Flames AI Video Summarizer & Chat](https://github.com/Mohit-368/flames_ai_video_summarizer_and_chat)
+
+Video summarization and conversational AI workflow.
+
+**Built around:** `Python` `LLM applications`
+
+**Why it matters:** practical AI product thinking instead of model demos in isolation.
+
+</td>
+<td width="50%" valign="top">
+
+### [langchain](https://github.com/Mohit-368/langchain) + [langgraph](https://github.com/Mohit-368/langgraph)
+
+Active learning/build repositories around LLM application development and graph-based agent workflows.
+
+**Built around:** `Python` `LangChain` `LangGraph`
+
+**Why it matters:** these repos show the shift from conventional backend development toward agent engineering.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` // THE BACKEND FOUNDATION
+
+My older projects are still useful because they show how I learned to build software before moving deeper into AI.
+
+| Project | Engineering signal |
+|---|---|
+| [medico_app](https://github.com/Mohit-368/medico_app) | Django full-stack architecture, appointments, role-based workflows |
+| [Career Intelligence](https://github.com/Mohit-368/Career_Intelligence-SQL-Based-Recommendation-Engine) | SQL, CTEs, window functions, recommendation logic |
+| [Smart Log Analyzer](https://github.com/Mohit-368/Smart_Log_Analyzer-Python) | log parsing, automation, operational thinking |
+| [system_monitor-python](https://github.com/Mohit-368/system_monitor-python) | CPU/RAM/disk monitoring and alerting |
+| [ReadmeForge](https://github.com/Mohit-368/ReadmeForge) | developer tooling, GitHub API, CLI/product thinking |
+| [fokkus_chrome_extension](https://github.com/Mohit-368/fokkus_chrome_extension) | browser APIs, Manifest V3, client-side engineering |
+| [backend-practice](https://github.com/Mohit-368/backend-practice) | active backend experimentation |
+| [DevConverter](https://github.com/Mohit-368/DevConverter) | utility-product design and frontend engineering |
 
 <details>
-<summary><b>$ ls projects/ --all</b></summary>
-<br>
+<summary><strong>More public builds</strong></summary>
 
-| Project | Stack | What it does |
-|---|---|---|
-| [Multi-Agent AI Research System](https://github.com/Mohit-368/Multi-Agent-AI-Research-System) | Python | Turns one topic into a self-critiqued research report |
-| [RAG AI Video Assistant](https://github.com/Mohit-368/RAG-AI-Video-Assistant) | Python | Retrieval-augmented Q&A over video content |
-| [UniNews](https://github.com/Mohit-368/UniNews_buildathon_project) | React . AI APIs | Scores the credibility of a news article |
-| [Fokkus](https://github.com/Mohit-368/fokkus_chrome_extension) | JS . Manifest V3 | Password-protected focus mode website blocker |
-| [DevConverter](https://github.com/Mohit-368/DevConverter) | JavaScript | Number systems, storage units, colors & QR codes |
-| [Smart Log Analyzer](https://github.com/Mohit-368/Smart_Log_Analyzer-Python) | Python | Flags error patterns & suspicious IPs in server logs |
-| [System Monitor](https://github.com/Mohit-368/system_monitor-python) | Python | Real-time CPU/RAM/disk tracking with email alerts |
-| [News Media App](https://github.com/Mohit-368/React_practice_3_News_website) | React . NewsAPI | Live headlines, infinite scroll |
+<br/>
+
+- [Awkward Django Project](https://github.com/Mohit-368/Akward-django-project)
+- [React News Website](https://github.com/Mohit-368/React_practice_3_News_website)
+- [UniNews Buildathon Project](https://github.com/Mohit-368/UniNews_buildathon_project)
+- [DeepDocs](https://github.com/Mohit-368/deepdocs)
+- [ProfId](https://github.com/Mohit-368/ProfId)
+- [React Accordion](https://github.com/Mohit-368/react_practice_1_accordian)
+- [Random Color Generator](https://github.com/Mohit-368/react_practice_2_randomColorGenerator)
+- [React Practice 1](https://github.com/CodeCollab-Grow/React_practice_1)
+- [Django Notes](https://github.com/Mohit-368/Django-notes)
 
 </details>
 
-<br>
+---
 
-### `$ cat skills.stack`
+## `05` // OPEN SOURCE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,react,js,tailwind,java,sqlite,git,github,linux,vscode&theme=dark" />
+<a href="https://www.nsoc.in">
+  <img src="https://img.shields.io/badge/NSOC_2026-PROJECT%20ADMIN-0B3D91?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+</a>
+
+<a href="https://gssoc.girlscript.tech/">
+  <img src="https://img.shields.io/badge/GSSOC_2026-PROJECT%20ADMIN-1266D6?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+</a>
+
+<a href="https://gssoc.girlscript.tech/">
+  <img src="https://img.shields.io/badge/GSSOC_2026-CONTRIBUTOR-42A5FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Open source is not a badge collection. It is proof that you can build with other people.**
 
 </div>
 
+---
+
+## `06` // ENGINEERING STACK
+
+### CORE
+
+![Python](https://img.shields.io/badge/Python-0B3D91?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1266D6?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0B3D91?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-1266D6?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E88E5?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0B3D91?style=flat-square&logo=redis&logoColor=white)
+
+### AI / AGENT LAYER
+
+![LangChain](https://img.shields.io/badge/LangChain-1266D6?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0B3D91?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1E88E5?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-42A5FF?style=flat-square&labelColor=071A3D)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-1266D6?style=flat-square)
+
+### PLATFORM
+
+![Git](https://img.shields.io/badge/Git-0B3D91?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1266D6?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1E88E5?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1266D6?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0B3D91?style=flat-square&logo=amazonaws&logoColor=white)
+
+### FRONTEND
+
+![React](https://img.shields.io/badge/React-1266D6?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B3D91?style=flat-square&logo=javascript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-1E88E5?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## `07` // HOW I THINK ABOUT SOFTWARE
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 01
+**Systems**
+
+Design the backend before hiding complexity behind frameworks.
+
+</td>
+<td align="center" width="25%">
+
+### 02
+**Data**
+
+A model is only as useful as the information pipeline around it.
+
+</td>
+<td align="center" width="25%">
+
+### 03
+**Agents**
+
+Useful agents need state, tools, constraints and evaluation.
+
+</td>
+<td align="center" width="25%">
+
+### 04
+**Shipping**
+
+A working system beats another unfinished tutorial.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `08` // CURRENTLY BUILDING
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  NOW                                                        │
+│                                                             │
+│  ▸ AI backend engineering                                   │
+│  ▸ FastAPI production patterns                              │
+│  ▸ RAG systems + vector retrieval                           │
+│  ▸ LangChain / LangGraph agent workflows                    │
+│  ▸ PostgreSQL + Redis                                       │
+│  ▸ Docker + AWS                                             │
+│  ▸ Monitoring + system design                               │
+│                                                             │
+│  NEXT                                                       │
+│                                                             │
+│  ▸ More production-grade AI systems                         │
+│  ▸ Stronger distributed backend fundamentals                 │
+│  ▸ Better evaluation and observability for agents           │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `09` // PROOF OF WORK
+
 <div align="center">
 
-`CORE` Python . Java . SQL &nbsp;&bull;&nbsp; `BUILD` Django . DRF . React . Tailwind &nbsp;&bull;&nbsp; `SYSTEMS` PostgreSQL . SQLite . Linux &nbsp;&bull;&nbsp; `EXPLORING` LangChain . LangGraph
+<img src="https://github-readme-stats.vercel.app/api?username=Mohit-368&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=071A3D&title_color=42A5FF&icon_color=1E88E5&text_color=D6E8FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-368&layout=compact&hide_border=true&langs_count=8&bg_color=071A3D&title_color=42A5FF&text_color=D6E8FF" width="41%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Mohit-368&hide_border=true&background=071A3D&stroke=0B3D91&ring=42A5FF&fire=1E88E5&currStreakLabel=42A5FF&sideLabels=D6E8FF&dates=93B4D8" width="70%" />
 
 </div>
 
-<br>
+> **180+ LeetCode problems solved · HackerRank SQL 50 badge · 200+ daily blog readers**
 
-### `$ ./stats.sh --run`
+---
+
+## `10` // WRITING & KNOWLEDGE SHARING
+
+I write about:
+
+```text
+Python backend development
+Django / REST APIs
+SQL & PostgreSQL
+Developer tooling
+AI application engineering
+```
+
+**Read the work →** [Hashnode](https://hashnode.com/@mohitkumar368)
+
+---
+
+## `11` // BEYOND THE CODE
+
+### Backend Decode
+
+I founded a backend-focused developer community on LinkedIn.
+
+**Theme:** break down the backend engineering hidden inside products that look simple from the outside.
+
+[Join the community →](https://www.linkedin.com/groups/18318001)
+
+---
+
+## `12` // EDUCATION & CREDENTIALS
+
+**B.Tech · Computer Science & Engineering**  
+MDU Rohtak · 2024–2028
+
+| Credential | Year |
+|---|---:|
+| Django · Simplilearn | 2026 |
+| SQL Advanced · HackerRank | 2026 |
+| Python · Training & Placement Cell, UIET, MDU Rohtak | 2025 |
+| Introduction to Programming Using Python · HackerRank | 2025 |
+
+---
+
+## `13` // FIND ME
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mohit-368&show_icons=true&count_private=true&title_color=60A5FA&icon_color=1A56DB&text_color=c9d1d9&bg_color=0B1220&border_color=1A56DB&hide_border=false" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-368&layout=donut-vertical&title_color=60A5FA&text_color=c9d1d9&bg_color=0B1220&border_color=1A56DB&hide_border=false" />
+<a href="https://linkedin.com/in/mohitkumar368">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Mohit-368?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-EXPLORE%20THE%20BUILDS-1266D6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://hashnode.com/@mohitkumar368">
+  <img src="https://img.shields.io/badge/Hashnode-READ%20THE%20WRITING-0B3D91?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+<a href="mailto:berwaliamohit@gmail.com">
+  <img src="https://img.shields.io/badge/Email-START%20A%20CONVERSATION-1E88E5?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/Mohit_368?theme=dark&font=Fira%20Code&ext=heatmap" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-368&hide_border=true&background=0B1220&ring=1A56DB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-368&hide_border=true&bg_color=0B1220&color=60A5FA&line=1A56DB&point=ffffff&area=true&area_color=1A56DB" width="90%"/>
+### Open to remote internships in backend / AI engineering
 
 </div>
 
-<br>
-
-### `$ ./trophies.sh`
+---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mohit-368&theme=algolia&no-frame=true&column=4&row=2&margin-w=10&margin-h=10" />
+<sub>Built in public. Learning in public. Shipping in public.</sub>
 
-</div>
+<br/>
 
-<br>
-
-### `$ cat certifications.log`
-
-- **Django** -- Simplilearn *(Feb 2026)*
-- **SQL (Advanced)** -- HackerRank *(Feb 2026)*
-- **Introduction to Programming Using Python** -- HackerRank *(May 2025)*
-- **Python** -- Training & Placement Cell, UIET, MDU Rohtak *(Sep 2025)*
-
-<br>
-
-<div align="center">
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,50:1A56DB,100:0B1220&height=6" />
-<br><br>
-
-Writing about Django and backend engineering on **[Hashnode](https://hashnode.com/@mohitkumar368)** -- 200+ daily readers.
-Open to remote backend / Python internships -- **[let's talk](https://linkedin.com/in/mohitkumar368)**.
+**MOHIT × BACKEND × AI**
 
 </div>
