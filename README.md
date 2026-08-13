@@ -1,176 +1,162 @@
 <div align="center">
 
-```
-███╗   ███╗ ██████╗ ██╗  ██╗██╗████████╗
-████╗ ████║██╔═══██╗██║  ██║██║╚══██╔══╝
-██╔████╔██║██║   ██║███████║██║   ██║   
-██║╚██╔╝██║██║   ██║██╔══██║██║   ██║   
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║   ██║   
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝  
-```
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohit-368&style=flat-square&color=1A56DB&base=500" alt="Profile Views"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1A56DB,100:60A5FA&height=220&section=header&text=MOHIT%20KUMAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Python%20/%20Django&descAlignY=58&descSize=18&animation=fadeIn" />
 
---- 
-
-## Open Source Recognition
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<a href="https://www.nsoc.in">
-<img src="https://img.shields.io/badge/NSOC_2026-Project_Admin-1A56DB?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<a href="https://linkedin.com/in/mohitkumar368">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+APIs+that+don%27t+fall+over.;Django+%2B+DRF+%2B+PostgreSQL%2C+every+day.;180%2B+LeetCode+%C2%B7+CS+Eng+%40+MDU+Rohtak;Open+to+remote+backend+internships." />
 </a>
-</td>
 
-<td align="center">
-<a href="https://gssoc.girlscript.tech/">
-<img src="https://img.shields.io/badge/GSSOC_2026-Project_Admin-FF69B4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-</a>
-</td>
+<br><br>
 
-<td align="center">
-<a href="https://gssoc.girlscript.tech/">
-<img src="https://img.shields.io/badge/GSSOC_2026-Contributor-FF1493?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-</a>
-</td>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumar368)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1A56DB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Mohit_368)
+[![Hashnode](https://img.shields.io/badge/Blog-1A56DB?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@mohitkumar368)
+[![Gmail](https://img.shields.io/badge/Email-1A56DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berwaliamohit@gmail.com)
 
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=Mohit-368&style=for-the-badge&color=1A56DB&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:1A56DB&height=3" />
 
-### `< Backend Developer />` · Python · Django · DRF
+<br>
 
-*CS Engineering Student @ MDU Rohtak (2024–2028) · Open to Remote Internships*
+## &nbsp;🔷&nbsp; About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohitkumar368-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumar368)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Mohit__368-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Mohit_368)
-[![Blog](https://img.shields.io/badge/Hashnode-200+_daily_readers-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@mohitkumar368)
-[![Email](https://img.shields.io/badge/Email-berwaliamohit@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:berwaliamohit@gmail.com)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class Mohit:
-    location     = "Rewari, Haryana 🇮🇳  →  Remote 🌐"
-    role         = "Backend Developer (Open to Internships)"
-    stack        = ["Python", "Django", "DRF", "PostgreSQL", "React.js"]
-    building     = "Scalable backend systems & developer tools"
-    writing      = "Technical blogs on Hashnode · 200+ daily readers"
-    leetcode     = "180+ problems solved · SQL 50 Badge 🏅"
-    community    = "Founded a backend-focused dev community on LinkedIn"
-    ask_me_about = ["Django REST APIs", "PostgreSQL", "Backend Architecture", "Chrome Extensions"]
+```yaml
+role:      Backend Developer (open to internships)
+location:  Rewari, Haryana, IN  ->  Remote
+education: CS Engineering, MDU Rohtak (2024 - 2028)
+stack:     Python . Django . DRF . PostgreSQL . React.js
+currently: Exploring LangChain, LangGraph & multi-agent AI systems
+writing:   Django & backend deep-dives on Hashnode - 200+ daily readers
+community: Founder of a backend-focused developer community on LinkedIn
 ```
 
----
+<br>
 
-## 🚀 Featured Projects
-
-| Project | Tech | What it does |
-|--------|------|--------------|
-| 🏥 **[Hospital Management System](https://github.com/Mohit-368)** | Django · DRF · PostgreSQL | Full REST API — patient registration, appointments, role-based auth |
-| 📝 **[ReadmeForge](https://github.com/Mohit-368)** | Python · CLI · GitHub API | CLI tool that auto-generates professional GitHub READMEs |
-| 🤝 **[Awkward — Social Platform](https://github.com/Mohit-368)** | Django · SQLite · HTML/CSS | Full-stack social media app with OTP auth & Django Signals |
-| 🔍 **[Career Intelligence](https://github.com/Mohit-368)** | SQL · PostgreSQL | SQL recommendation engine using CTEs & window functions |
-| 🚫 **[Fokkus Chrome Extension](https://github.com/Mohit-368)** | JS · Manifest V3 · Chrome APIs | Website blocker with focus mode & password protection |
-| 🖥️ **[Smart Log Analyzer](https://github.com/Mohit-368)** | Python | Detects error patterns & suspicious IPs in server logs |
-| 📊 **[System Monitor](https://github.com/Mohit-368)** | Python | Real-time CPU/RAM/disk tracker with email alerts |
-| 📰 **[News Media App](https://github.com/Mohit-368)** | React.js · NewsAPI | Live news headlines with infinite scroll |
-
----
-
-## 🛠️ Tech Stack
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## &nbsp;🔷&nbsp; Open Source
 
 <div align="center">
 
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit-368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-368&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohit-368&theme=tokyonight&hide_border=true)
+| Program | Role |
+|:---:|:---:|
+| **NSOC 2026** | Project Admin |
+| **GSSOC 2026** | Project Admin |
+| **GSSOC 2026** | Contributor |
 
 </div>
 
----
+<br>
 
-## 🏅 Certifications
-
-- 🟩 **Django** — Simplilearn *(Feb 2026 · ID: 9870873)*
-- 🟧 **SQL (Advanced)** — HackerRank *(Feb 2026 · ID: 72A149112D18)*
-- 🐍 **Introduction to Programming Using Python** — HackerRank *(May 2025)*
-- 🎓 **Python** — Training & Placement Cell, UIET, MDU Rohtak *(Sep 2025)*
-
----
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-> 📌 I write about Django, Python backend development, SQL, and developer tools.  
-> 👉 **[Read my articles on Hashnode →](https://hashnode.com/@mohitkumar368)**  
-> *200+ readers daily — join the community!*
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Connect
+## &nbsp;🔷&nbsp; Featured Work
 
 <div align="center">
 
-I'm actively looking for **remote Python/Django internships**.  
-If you're building something cool in the backend space — let's talk!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumar368)
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berwaliamohit@gmail.com)
-[![Read My Blog](https://img.shields.io/badge/Read_My_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@mohitkumar368)
+<a href="https://github.com/Mohit-368/ReadmeForge">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-368&repo=ReadmeForge&theme=transparent&title_color=60A5FA&text_color=c9d1d9&icon_color=1A56DB&border_color=1A56DB&hide_border=false" />
+</a>
+<a href="https://github.com/Mohit-368/medico_app">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-368&repo=medico_app&theme=transparent&title_color=60A5FA&text_color=c9d1d9&icon_color=1A56DB&border_color=1A56DB&hide_border=false" />
+</a>
+<br>
+<a href="https://github.com/Mohit-368/Akward-django-project">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-368&repo=Akward-django-project&theme=transparent&title_color=60A5FA&text_color=c9d1d9&icon_color=1A56DB&border_color=1A56DB&hide_border=false" />
+</a>
+<a href="https://github.com/Mohit-368/Career_Intelligence-SQL-Based-Recommendation-Engine">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-368&repo=Career_Intelligence-SQL-Based-Recommendation-Engine&theme=transparent&title_color=60A5FA&text_color=c9d1d9&icon_color=1A56DB&border_color=1A56DB&hide_border=false" />
+</a>
 
 </div>
 
----
+- **ReadmeForge** - the fastest way to craft a GitHub README, zero Markdown required. `* 106 stars . 32 forks`
+- **medico_app** - full REST API for a hospital: appointments, doctor availability, role-based auth.
+- **Awkward** - a social platform with OTP auth, built on Django Signals.
+- **Career Intelligence** - a SQL recommendation engine, built entirely on CTEs and window functions.
+
+<details>
+<summary><b>More things I've built -></b></summary>
+<br>
+
+| Project | Stack | What it does |
+|---|---|---|
+| [Multi-Agent AI Research System](https://github.com/Mohit-368/Multi-Agent-AI-Research-System) | Python | Turns one topic into a self-critiqued research report |
+| [RAG AI Video Assistant](https://github.com/Mohit-368/RAG-AI-Video-Assistant) | Python | Retrieval-augmented Q&A over video content |
+| [UniNews](https://github.com/Mohit-368/UniNews_buildathon_project) | React . AI APIs | Scores the credibility of a news article |
+| [Fokkus](https://github.com/Mohit-368/fokkus_chrome_extension) | JS . Manifest V3 | Password-protected focus mode website blocker |
+| [DevConverter](https://github.com/Mohit-368/DevConverter) | JavaScript | Number systems, storage units, colors & QR codes |
+| [Smart Log Analyzer](https://github.com/Mohit-368/Smart_Log_Analyzer-Python) | Python | Flags error patterns & suspicious IPs in server logs |
+| [System Monitor](https://github.com/Mohit-368/system_monitor-python) | Python | Real-time CPU/RAM/disk tracking with email alerts |
+| [News Media App](https://github.com/Mohit-368/React_practice_3_News_website) | React . NewsAPI | Live headlines, infinite scroll |
+
+</details>
+
+<br>
+
+## &nbsp;🔷&nbsp; Stack
 
 <div align="center">
-  
-  
-  *"Build things that matter. Ship things that work."*
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,react,js,tailwind,java,sqlite,git,github,linux,vscode&theme=dark" />
+
+</div>
+
+<div align="center">
+
+`CORE` Python . Java . SQL &nbsp;|&nbsp; `BUILD` Django . DRF . React . Tailwind &nbsp;|&nbsp; `SYSTEMS` PostgreSQL . SQLite . Linux &nbsp;|&nbsp; `EXPLORING` LangChain . LangGraph
+
+</div>
+
+<br>
+
+## &nbsp;🔷&nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mohit-368&show_icons=true&count_private=true&theme=transparent&title_color=60A5FA&icon_color=1A56DB&text_color=c9d1d9&border_color=1A56DB" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-368&layout=compact&theme=transparent&title_color=60A5FA&text_color=c9d1d9&border_color=1A56DB" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-368&theme=transparent&hide_border=true&background=00000000&ring=1A56DB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-368&theme=react-dark&hide_border=true&bg_color=00000000&color=60A5FA&line=1A56DB&point=ffffff" width="90%"/>
+
+</div>
+
+<br>
+
+## &nbsp;🔷&nbsp; Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mohit-368/Mohit-368/output/github-contribution-grid-snake.svg" width="90%" />
+
+<sub>Animated by a scheduled GitHub Action - see setup notes below.</sub>
+
+</div>
+
+<br>
+
+## &nbsp;🔷&nbsp; Certifications
+
+- **Django** - Simplilearn *(Feb 2026)*
+- **SQL (Advanced)** - HackerRank *(Feb 2026)*
+- **Introduction to Programming Using Python** - HackerRank *(May 2025)*
+- **Python** - Training & Placement Cell, UIET, MDU Rohtak *(Sep 2025)*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0B1220&height=3" />
+
+<div align="center">
+<br>
+
+Writing about Django and backend engineering on **[Hashnode](https://hashnode.com/@mohitkumar368)** - 200+ daily readers.
+Open to remote backend / Python internships - **[let's talk](https://linkedin.com/in/mohitkumar368)**.
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1A56DB,100:60A5FA&height=120&section=footer" />
+
 </div>
