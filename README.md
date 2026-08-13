@@ -343,20 +343,106 @@ A working system beats another unfinished tutorial.
 
 ---
 
+
+
 ## `09` // PROOF OF WORK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohit-368&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=071A3D&title_color=42A5FF&icon_color=1E88E5&text_color=D6E8FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-368&layout=compact&hide_border=true&langs_count=8&bg_color=071A3D&title_color=42A5FF&text_color=D6E8FF" width="41%" />
+<a href="https://github.com/Mohit-368">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-368&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=071A3D&title_color=42A5FF&icon_color=42A5FF&text_color=BFD7F5&border_radius=14" width="47%" />
+</a>
+
+<a href="https://github.com/Mohit-368?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-368&layout=donut&hide_border=true&langs_count=6&bg_color=071A3D&title_color=42A5FF&text_color=BFD7F5&border_radius=14" width="39%" />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mohit-368&hide_border=true&background=071A3D&stroke=0B3D91&ring=42A5FF&fire=1E88E5&currStreakLabel=42A5FF&sideLabels=D6E8FF&dates=93B4D8" width="70%" />
+<a href="https://github.com/Mohit-368">
+  <img src="https://streak-stats.demolab.com?user=Mohit-368&hide_border=true&background=071A3D&stroke=0B3D91&ring=42A5FF&fire=1E88E5&currStreakLabel=42A5FF&sideLabels=BFD7F5&dates=7FA9D6&border_radius=14" width="72%" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### `180+`
+
+**LeetCode**
+
+Problems solved
+
+</td>
+
+<td align="center" width="25%">
+
+### `SQL 50`
+
+**HackerRank**
+
+Badge earned
+
+</td>
+
+<td align="center" width="25%">
+
+### `200+`
+
+**Daily Readers**
+
+Hashnode
+
+</td>
+
+<td align="center" width="25%">
+
+### `26`
+
+**Public Repositories**
+
+Open-source work
+
+</td>
+</tr>
+</table>
 
 </div>
 
-> **180+ LeetCode problems solved · HackerRank SQL 50 badge · 200+ daily blog readers**
+> **The graph is activity. The repositories are evidence. The work is the signal.**
+
+<details>
+<summary><strong>What the numbers actually represent</strong></summary>
+
+<br/>
+
+```text
+CODE
+├── 180+ LeetCode problems
+└── Continuous DSA practice
+
+BACKEND
+├── FastAPI
+├── Django / DRF
+├── PostgreSQL
+└── Redis
+
+AI
+├── RAG
+├── LangChain
+├── LangGraph
+└── Multi-agent systems
+
+PUBLIC WORK
+├── 26 public repositories
+├── Open-source contributions
+└── Developer tooling + AI applications
+```
+
+</details>
+
 
 ---
 
