@@ -4,21 +4,9 @@
 
 <br>
 
-```
-╭─────────────────────────────────────────────────╮
-│ ●  ●  ●   mohit@backend: ~                       │
-├─────────────────────────────────────────────────┤
-│                                                   │
-│ $ whoami                                         │
-│ Mohit Kumar -- Backend Developer                 │
-│ Python . Django . DRF . PostgreSQL . React.js    │
-│                                                   │
-│ $ cat status.txt                                 │
-│ CS Engineering @ MDU Rohtak (2024-2028)           │
-│ Open to remote backend internships                │
-│                                                   │
-╰─────────────────────────────────────────────────╯
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/Mohit-368/Mohit-368/main/terminal-banner.svg" width="700" alt="terminal" />
+</div>
 
 <div align="center">
 
